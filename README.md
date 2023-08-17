@@ -21,7 +21,7 @@ My ultimate objective is to contribute to the tech community by sharing my knowl
 <br>
 
 <p align="center">
-  <img width="600" src="https://stats.hyochan.dev/api/github-stats-advanced?login=pateu198" />
+  <img width="600" src="https://stats.hyochan.dev/api/github-stats-advanced?login=yl1337" />
 </p>
 
 <br>
