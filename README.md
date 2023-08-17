@@ -3,15 +3,11 @@
 </p>
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/-Lua-darkblue?style=flat-square&logo=lua">
- 
-  <a href="#"><img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
-  
-  <a href="#"><img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3">
-  
-  <a href="#"><img src="https://img.shields.io/badge/-Csharp-darkgreen?style=flat-square&logo=csharp">
- 
-  <a href="#"><img src="https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=python">
+   <a href="#"><img src="https://img.shields.io/badge/-Lua-darkblue?style=flat-square&logo=lua">
+   <a href="#"><img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
+   <a href="#"><img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3">
+   <a href="#"><img src="https://img.shields.io/badge/-Csharp-darkgreen?style=flat-square&logo=csharp">
+   <a href="#"><img src="https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=python">
 <p>
 <br>
 
